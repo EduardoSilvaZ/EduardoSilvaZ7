@@ -1,1 +1,1 @@
->  **Eduardo**\n > **Developer de Bot Discord**\n > **Aprendendo .Lua .Js .Html .Css**
+>  **Eduardo** **Developer de Bot Discord** **Aprendendo .Lua .Js .Html .Css**
